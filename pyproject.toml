@@ -14,7 +14,8 @@ dependencies = [
     "pillow",
     "psutil",
     "colorama",
-    "comtypes"
+    "comtypes",
+    "apscheduler"
 ]
 
 [tool.setuptools.packages.find]
